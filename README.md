@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ehsan Mehrjoo  
 A passionate Front-End Developer from Iran  
 
-- 🔭 I’m currently working on: [TheWildOasis](https://github.com/ehsanmehrjoo/TheWildOasis)  
+- 🔭 I’m currently working on: [TheWildOasisClient](https://github.com/ehsanmehrjoo/the-wild-oasis-client)  
 - 🌱 I’m currently learning **React**, **Next.js**  
 - 👨‍💻 All of my projects are available at [https://github.com/ehsanmehrjoo](https://github.com/ehsanmehrjoo/)  
 - 💬 Ask me about: **JavaScript, React, OOP, Web Development**  
