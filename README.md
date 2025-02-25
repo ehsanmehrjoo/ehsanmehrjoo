@@ -2,7 +2,7 @@
 A passionate Front-End Developer from Iran  
 
 - 🔭 I’m currently working on: [TheWildOasisClient](https://github.com/ehsanmehrjoo/the-wild-oasis-client)  
-- 🌱 I’m currently learning **React**, **Next.js**  
+- 🌱 I’m currently learning  **Next.js**  
 - 👨‍💻 All of my projects are available at [https://github.com/ehsanmehrjoo](https://github.com/ehsanmehrjoo/)  
 - 💬 Ask me about: **JavaScript, React, OOP, Web Development**  
 - 📫 How to reach me **ehsan585147z@gmail.com**  
@@ -21,6 +21,7 @@ A passionate Front-End Developer from Iran
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ---
