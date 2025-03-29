@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Ehsan Mehrjoo  
+# Hi 👋, I'm Ehsan Mehrjo  
 A passionate Front-End Developer from Iran  
 
 🌎 **Portfolio:** [ehsanmehrjo.netlify.app](https://ehsanmehrjo.netlify.app/)  
